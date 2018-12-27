@@ -1,3 +1,2 @@
-git is a free software for everyone
-git is distributed version control system
-git is very useful 
+you can choose what you want classifier
+there are trained classifiers
